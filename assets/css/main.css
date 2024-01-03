@@ -31,7 +31,7 @@ html {
 }
 
 body {
-  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: normal;
   font-style: normal;
   color: #888;
@@ -994,7 +994,7 @@ ol {
   position: relative;
   padding-right: 15px;
   margin-right: 15px;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .breadcrumbs .breadcrumb-nav li:after {
@@ -1072,7 +1072,7 @@ ol {
   font-size: 34px;
   margin-bottom: 25px;
   line-height: 42px;
-  text-transform: capitalize;
+  text-transform: none;
   position: relative;
   font-weight: 800;
 }
@@ -1271,7 +1271,7 @@ ol {
 
 .button .btn {
   display: inline-block;
-  text-transform: capitalize;
+  text-transform: none;
   font-size: 15px;
   font-weight: 600;
   padding: 13px 30px;
@@ -1826,7 +1826,7 @@ ol {
   font-weight: 600;
   transition: all 0.3s ease-out 0s;
   position: relative;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .navbar-nav .nav-item a::after {
@@ -1926,7 +1926,7 @@ ol {
   width: 100%;
   font-size: 14px;
   font-weight: 500;
-  text-transform: capitalize;
+  text-transform: none;
   position: relative;
   z-index: 1;
   border-radius: 4px;
@@ -2459,7 +2459,7 @@ ol {
   font-size: 15px;
   color: #fff;
   font-weight: 500;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
@@ -3403,7 +3403,7 @@ blockquote span {
   margin-bottom: 40px !important;
   position: relative;
   z-index: 1;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .post-comments .comments-list li {
@@ -3532,7 +3532,7 @@ blockquote span {
   margin-bottom: 40px !important;
   position: relative;
   z-index: 1;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .comment-form form .form-box {
@@ -3787,7 +3787,7 @@ blockquote span {
   -ms-flex-pack: center;
   justify-content: center;
   padding: 7px 15px;
-  text-transform: capitalize;
+  text-transform: none;
   font-size: 14px;
   font-weight: 400;
   background: #FA4546;
@@ -4218,7 +4218,7 @@ blockquote span {
   color: #fff;
   display: inline-block;
   margin-top: 30px;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .contact-form-head .contact-inner-title .call-back i {
@@ -4690,7 +4690,7 @@ blockquote span {
   display: block;
   margin-bottom: 10px;
   font-weight: 600;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
